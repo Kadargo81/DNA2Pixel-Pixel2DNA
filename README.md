@@ -15,4 +15,4 @@ Pixel2DNA-
 This program takes a png file reads the pixel data and decodes the RGBY value into an RNA or DNA sequence.  
 This is designed to take the output of DNA2Pixel.py as input but any pixelmap will work.  
 Input files must have 1 to 1 pixel data, if you use a 3x upscaled image for example it will read 3x as many bases and produce garbage.  
-The input files exact RGBY values must be found and changed within the program.
+The input files exact RGBY values must be changed within the program for now, you can use MS Paint or similar programs to find them.
