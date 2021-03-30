@@ -1,4 +1,4 @@
-# RNA-DNA-RGBY-Image-Maker
+# DNA2pixel and Pixel2DNA
 Simple Programs to Make and Decode RNA or DNA Pixel Art 
 
 DNA2Pixel-  
